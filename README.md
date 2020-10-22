@@ -1,7 +1,8 @@
 <p>
-    <a href="https://npmjs.com/package/lingallery"><img src="https://img.shields.io/npm/v/lingallery.svg?style=flat-square" alt="NPM version"></a>
-    <a href="https://www.npmjs.com/package/lingallery"><img src="https://img.shields.io/npm/dm/lingallery.svg?style=flat-square" alt="NPM downloads"></a>
-    <a href="https://www.npmjs.com/package/lingallery"><img src="https://img.shields.io/npm/l/lingallery.svg?style=flat-square" alt="License"></a>
+    <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Made%20with-Vue-%2341B883?style=flat-square" alt="Made with Vue"></a>
+    <a href="https://npmjs.com/package/@therunninghub/lingallery"><img src="https://img.shields.io/npm/v/@therunninghub/lingallery.svg?style=flat-square" alt="NPM version"></a>
+    <a href="https://npmjs.com/package/@therunninghub/lingallery"><img src="https://img.shields.io/npm/dm/@therunninghub/lingallery.svg?style=flat-square" alt="NPM downloads"></a>
+    <a href="https://npmjs.com/package/@therunninghub/lingallery"><img src="https://img.shields.io/npm/l/@therunninghub/lingallery.svg?style=flat-square" alt="License"></a>
 </p>
 
 # Lingallery
@@ -21,7 +22,7 @@ npm i lingallery
 
 ## Usage
 
-Here are some examples of how to use Lingallery in a `.vue` file component or inline. 
+Here are some examples of how to use Lingallery in a `.vue` file component or inline.
 
 ### Inline usage
 
@@ -124,7 +125,7 @@ By passing the prop `enableLargeView` you can enable the large view feature. Whe
 
 ```
 <lingallery :addons="{ enableLargeView: true }" ... />
-``` 
+```
 
 If you want to show a different image (maybe a larger version) in the modal you can add the property `largeViewSrc` into the `items` prop.
 

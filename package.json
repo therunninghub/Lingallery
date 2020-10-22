@@ -1,9 +1,16 @@
 {
   "name": "@therunninghub/lingallery",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "private": false,
   "description": "A simple image gallery component for Vue.js",
-  "author": "Christoph Anastasiades <info@lingulo.com>",
+  "authors": "Christoph Anastasiades <info@lingulo.com>",
+  "contributors": [
+    {
+      "name": "Le Minh Tri",
+      "email": "ansidev@therunninghub.net",
+      "url": "https://therunninghub.net"
+    }
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -76,10 +83,10 @@
   "module": "./dist/lingallery.umd.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristophAnastasiades/Lingallery.git"
+    "url": "git+https://github.com/therunninghub/Lingallery.git"
   },
   "bugs": {
-    "url": "https://github.com/ChristophAnastasiades/Lingallery/issues"
+    "url": "https://github.com/therunninghub/Lingallery/issues"
   },
-  "homepage": "https://github.com/ChristophAnastasiades/Lingallery#readme"
+  "homepage": "https://github.com/therunninghub/Lingallery#readme"
 }
